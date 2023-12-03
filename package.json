@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.2",
+    "classnames": "^2.3.2",
+    "gsap": "^3.12.2",
+    "lottie-web": "^5.12.2",
+    "react-animated-cursor": "^2.11.2",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-player": "^2.13.0"
+  }
+}
